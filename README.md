@@ -1,3 +1,24 @@
+## depthcloud_encoder (jade) - 0.0.4-0
+
+The packages in the `depthcloud_encoder` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade depthcloud_encoder --new-track` on `Tue, 07 Apr 2015 17:29:19 -0000`
+
+The `depthcloud_encoder` package was released.
+
+Version of package(s) in repository `depthcloud_encoder`:
+- upstream repository: https://github.com/RobotWebTools/depthcloud_encoder.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.4-0`
+
+Versions of tools used:
+- bloom version: `0.5.19`
+- catkin_pkg version: `0.2.8`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.36`
+
+
 ## depthcloud_encoder (groovy) - 0.0.4-0
 
 User `rctoris@RCT-DESKTOP` released the packages in the `depthcloud_encoder` repository into the `groovy` distro by running `/usr/bin/bloom-release --rosdistro groovy --track groovy depthcloud_encoder --new-track` on `Wed, 16 Apr 2014 16:50:39 -0000`
