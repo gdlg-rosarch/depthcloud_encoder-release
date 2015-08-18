@@ -1,0 +1,12 @@
+Source: ros-hydro-depthcloud-encoder
+Section: misc
+Priority: extra
+Maintainer: Russell Toris <rctoris@wpi.edu>
+Build-Depends: debhelper (>= 9.0.0), ros-hydro-catkin, ros-hydro-cv-bridge, ros-hydro-image-transport, ros-hydro-message-filters, ros-hydro-pcl-conversions, ros-hydro-pcl-ros, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf-conversions
+Homepage: http://ros.org/wiki/depthcloud_encoder
+Standards-Version: 3.9.2
+
+Package: ros-hydro-depthcloud-encoder
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-hydro-cv-bridge, ros-hydro-image-transport, ros-hydro-message-filters, ros-hydro-pcl-conversions, ros-hydro-pcl-ros, ros-hydro-roscpp, ros-hydro-sensor-msgs, ros-hydro-tf-conversions
+Description: Point Cloud Encoder for Web-Based Streaming
